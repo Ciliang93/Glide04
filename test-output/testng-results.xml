@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35" started-at="2018-05-20T17:59:37Z" finished-at="2018-05-20T17:59:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35" started-at="2018-05-20T17:59:37Z" finished-at="2018-05-20T17:59:37Z">
+      <class name="be.iesca.colcinetFlights.tests.TestNG_GlideDao">
+        <test-method status="PASS" signature="initGlideList()[pri:0, instance:be.iesca.colcinetFlights.tests.TestNG_GlideDao@3ecd23d9]" name="initGlideList" is-config="true" duration-ms="5" started-at="2018-05-20T17:59:37Z" finished-at="2018-05-20T17:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initGlideList -->
+        <test-method status="PASS" signature="testList()[pri:0, instance:be.iesca.colcinetFlights.tests.TestNG_GlideDao@3ecd23d9]" name="testList" duration-ms="19" started-at="2018-05-20T17:59:37Z" finished-at="2018-05-20T17:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testList -->
+      </class> <!-- be.iesca.colcinetFlights.tests.TestNG_GlideDao -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- config OK - 2 daos sont renseignés-->
+<persistance type="DB">
+	    <dao>be.iesca.colcinetFlights.daoimpl.PilotDaoImpl</dao>
+	    <dao>be.iesca.colcinetFlights.daoimpl.FlightDaoImpl</dao>
+	    <dao>be.iesca.colcinetFlights.daoimpl.GlideDaoImpl</dao>
+   	    <driver>org.postgresql.Driver</driver>
+	    <url>jdbc:postgresql://localhost:5432/glide</url>
+	    <user>postgres</user>
+	    <password>1234</password>
+</persistance>
